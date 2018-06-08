@@ -1,0 +1,440 @@
+Wed May 30 00:36:23 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Wed May 30 17:52:04 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 02:07:36 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 03:37:34 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 04:10:44 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 04:26:24 PDT 2018
+Trace back: bad index name: tk::anchor2
+    while executing
+"$w index $anchorname"
+    (procedure "::scintilla::TextKeySelect" line 6)
+    invoked from within
+"::scintilla::TextKeySelect .main_pane.source2.interior.cs.body.srcobj.sci [::scintilla::TextUpDownLine .main_pane.source2.interior.cs.body.srcobj.sci ..."
+    (command bound to event)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {bad index name: tk::anchor2}
+  <1:proc:24: ::tk::dialog::error::bgerror {bad index name: tk::anchor2}
+Thu May 31 04:26:26 PDT 2018
+Trace back: bad index name: tk::anchor2
+    while executing
+"$w index $anchorname"
+    (procedure "::scintilla::TextKeySelect" line 6)
+    invoked from within
+"::scintilla::TextKeySelect .main_pane.source2.interior.cs.body.srcobj.sci [::scintilla::TextUpDownLine .main_pane.source2.interior.cs.body.srcobj.sci ..."
+    (command bound to event)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {bad index name: tk::anchor2}
+  <1:proc:24: ::tk::dialog::error::bgerror {bad index name: tk::anchor2}
+Thu May 31 04:26:32 PDT 2018
+Trace back: bad index name: tk::anchor2
+    while executing
+"$w index $anchorname"
+    (procedure "::scintilla::TextKeySelect" line 6)
+    invoked from within
+"::scintilla::TextKeySelect .main_pane.source2.interior.cs.body.srcobj.sci [::scintilla::TextUpDownLine .main_pane.source2.interior.cs.body.srcobj.sci ..."
+    (command bound to event)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {bad index name: tk::anchor2}
+  <1:proc:24: ::tk::dialog::error::bgerror {bad index name: tk::anchor2}
+Thu May 31 04:28:57 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 04:53:53 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 05:01:03 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Thu May 31 05:34:10 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Fri Jun 01 21:01:08 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 02:22:13 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 02:25:04 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 02:43:43 PDT 2018
+Trace back: bad index name: tk::anchor2
+    while executing
+"$w index $anchorname"
+    (procedure "::scintilla::TextKeySelect" line 6)
+    invoked from within
+"::scintilla::TextKeySelect .main_pane.source.interior.cs.body.srcobj.sci [::scintilla::TextUpDownLine .main_pane.source.interior.cs.body.srcobj.sci -1..."
+    (command bound to event)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {bad index name: tk::anchor2}
+  <1:proc:38: ::tk::dialog::error::bgerror {bad index name: tk::anchor2}
+Sat Jun 02 03:50:29 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 04:53:09 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:39:57 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:49:18 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:49:20 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:52:42 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:52:43 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:52:45 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 14:57:55 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 15:01:07 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 16:55:55 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:eval:1: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 18:53:19 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+Sat Jun 02 19:38:25 PDT 2018
+Trace back: Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+    while executing
+"$itk_component(tree) insertquery end """
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::vsimwidgets::Hierarchy::requery" body line 3)
+    invoked from within
+"requery"
+    (object "::.main_pane.memory.interior.cs.body.tree" method "::FlatMemlist::UpdateFlatMemList" body line 8)
+    invoked from within
+"$tree UpdateFlatMemList"
+    (procedure "Memview::delayedUpdateMemoryList" line 6)
+    invoked from within
+"Memview::delayedUpdateMemoryList"
+    ("after" script)
+  <2:C:/QuestaSim/win64/tk8.6/bgerror.tcl:106: ::tkerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
+  <1:proc:14: ::tk::dialog::error::bgerror {Bad sequence in.main_pane.memory.interior.cs.body.tree.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)}
