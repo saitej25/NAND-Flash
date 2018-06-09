@@ -13,10 +13,10 @@ import uvm_pkg::*;
 class NF_sequencer extends uvm_sequencer #(NF_seq_item);
 
 // class registration in uvm_factory
-`uvm_object_utils(NF_sequencer)
+`uvm_component_utils(NF_sequencer)
 
 // Constructor class 
-function new(string name = "NF_sequencer");
+function new(string name,uvm_component parent);
 	super.new(name);
 endfunction : new	
 

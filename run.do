@@ -1,3 +1,4 @@
+if [file exists "work"] {vdel -all}
 vlib work
 vlog -work work +cover ./ACounter.v
 	vlog +cover cmd_pkg.sv
@@ -13,7 +14,13 @@ vlog -work work +cover ./ACounter.v
 	vlog +cover tb_coverage.svh
 	vlog +cover tb_top.svh
 
-	
-	vsim -novopt -coverage work.tbench_top 
-	
-	add wave -position insertpoint sim:/tbench_top/bfm/*
+
+    vopt tbench_top -o top_optimized  +acc +cover=sbfec+tbench_top(rtl).
+	vsim top_optimized -coverage
+	set NoQuitOnFinish 1
+	onbreak {resume}
+	log /* -r
+	run -all
+	coverage save tbench_top.ucdb
+	vcover report tbench_top.ucdb 
+	vcover report tbench_top.ucdb -cvg -details

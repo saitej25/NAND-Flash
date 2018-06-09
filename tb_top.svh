@@ -34,7 +34,7 @@ nfcm_top nfcm(
     .BF_we (bfm.BF_we ),
     .RWA   (bfm.RWA   ), 
 
-    .BF_dou(bfm.BF_dou),
+    .BF_dou(bfm.BF_dr),
     .PErr(bfm.PErr), 
     .EErr(bfm.EErr), 
     .RErr(bfm.RErr),

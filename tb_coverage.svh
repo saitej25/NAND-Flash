@@ -53,13 +53,13 @@ endfunction : new
 
   // coverpoint for input command signal
   cov_cmd: coverpoint b.nfc_cmd { bins cmd[]              = {program_page, read_page, reset, erase, read_id}; 
-                                  bins cmd_write_to_any   = ('b1 => {'d2, 'd3, 'd4, 'd5});
-                                  bins cmds_read_to_any   = (3'b010 => {3'b001, 3'b011, 3'b100, 3'b101});
-                                  bins cmds_reset_to_any  = (3'b011 => {3'b001, 3'b010, 3'b100, 3'b101});
-                                  bins cmds_erase_to_any  = (3'b100 => {3'b001, 3'b010, 3'b101, 3'b011});
-                                  bins cmds_readid_to_any = (3'b101 => {3'b001, 3'b010, 3'b100, 3'b011});
-                                  bins cmds6[]            = (read_page[*1:5]);
-                                  bins cmds7[]            = (program_page[*1:5]);
+//                                  bins cmd_write_to_any   = ('b1 => {'d2, 'd3, 'd4, 'd5});
+//                                  bins cmds_read_to_any   = (3'b010 => {3'b001, 3'b011, 3'b100, 3'b101});
+//                                  bins cmds_reset_to_any  = (3'b011 => {3'b001, 3'b010, 3'b100, 3'b101});
+//                                  bins cmds_erase_to_any  = (3'b100 => {3'b001, 3'b010, 3'b101, 3'b011});
+//                                  bins cmds_readid_to_any = (3'b101 => {3'b001, 3'b010, 3'b100, 3'b011});
+//                                  bins cmds6[]            = (read_page[*1:5]);
+//                                  bins cmds7[]            = (program_page[*1:5]);
                  //  bins trans[] = (program_page=>stable, read_page=>stable, reset=>stable, erase=>stable, read_id=>stable); 
                              } 
 
